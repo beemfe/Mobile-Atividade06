@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Atividade06</string>
+    <string name="horas">Horas</string>
+    <string name="valorHoraAula"> Valor da Aula em R$</string>
+    <string name="salarioAtual">Salário Atual em R$</string>
+    <string name="anosInstituicao">Anos de Instituição:</string>
+    <string name="calc">Calcular</string>
+    <string name="salario">R$</string>
+    <string name="titular">Prof Titular</string>
+    <string name="horista">Prof Horista</string>
+</resources>
